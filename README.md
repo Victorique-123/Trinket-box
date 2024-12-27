@@ -7,6 +7,7 @@
 ### 📊 绘图工具 (plot_utils/)
 
 - **通用折线图模板** (line_plot.py)
+- ...
 
 ## ⚙️ 环境配置
 
@@ -18,7 +19,7 @@ pip install -r requirements.txt
 ```
 Trinket-box/
 ├── plot_utils/        # 绘图工具
-│   ├── line_plot.py  # 折线图模板
+│   ├── smooth_line.py  # 折线图模板
     ├── requirements.txt  # 依赖包
 │   └── README.md
 ... 
